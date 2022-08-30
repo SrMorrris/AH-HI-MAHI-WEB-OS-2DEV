@@ -1,6 +1,6 @@
 # AH-HI-MAHI-WEB-OS-2DEV
 
-The web-page files for my first MIDI device.
+The web-page files for my second MIDI device.
 
 Using the Jekyll style theme on bootstrap 4.0.
 
